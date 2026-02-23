@@ -74,3 +74,13 @@ cd convertflow
 python -m http.server 8000
 
 # Open http://localhost:8000 in your browser
+```
+
+## 📦 Installation
+Option 1: Static Hosting (Recommended)
+Deploy to any static hosting service:
+| Platform         | Deploy Button                                                                                                                                                      |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Vercel**       | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/convertflow)                        |
+| **Netlify**      | [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/convertflow) |
+| **GitHub Pages** | [See Guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)                                                       |
