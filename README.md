@@ -6,7 +6,6 @@
 </p>
 
 <h1 align="center">
-  <img src="https://via.placeholder.com/60x60/0a0a0f/22d3ee?text=CF" width="60" height="60" style="border-radius: 12px; vertical-align: middle; margin-right: 12px;" alt="Logo">
   <span style="color: #22d3ee;">Convert</span><span style="color: #a855f7;">Flow</span>
 </h1>
 
