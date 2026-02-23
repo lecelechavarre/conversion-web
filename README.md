@@ -29,7 +29,7 @@
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="./screenshot.png" alt="ConvertFlow Interface" width="100%" style="border-radius: 16px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);">
+  <img src="https://github.com/lecelechavarre/conversion-web/blob/main/screenshoot.png" alt="ConvertFlow Interface" width="100%" style="border-radius: 16px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);">
 </p>
 
 <p align="center">
