@@ -10,7 +10,7 @@
 </h1>
 
 <p align="center">
-  <strong>Next-generation document conversion platform</strong><br>
+  <strong>Document conversion platform</strong><br>
   <em>Professional-grade conversions. Zero server uploads. Military-grade privacy.</em>
 </p>
 
