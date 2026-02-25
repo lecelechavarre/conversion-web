@@ -23,10 +23,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/yourusername/convertflow?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/yourusername/convertflow?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/languages/top/yourusername/convertflow?style=flat-square" alt="Top Language">
-  <img src="https://img.shields.io/github/issues/yourusername/convertflow?style=flat-square" alt="Open Issues">
+  <img src="https://img.shields.io/github/stars/lecelechavarre/convertflow?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/lecelechavarre/convertflow?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/languages/top/lecelechavarre/convertflow?style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/github/issues/lecelechavarre/convertflow?style=flat-square" alt="Open Issues">
 </p>
 
 <p align="center">
@@ -65,6 +65,7 @@ ConvertFlow is a fully client-side document conversion platform built for enterp
 ---
 
 ## 🏗 Architecture Diagram
+```
 ┌──────────────┐
 │ User File │
 └──────┬───────┘
@@ -88,3 +89,4 @@ ConvertFlow is a fully client-side document conversion platform built for enterp
 ┌──────────────┐
 │ Output File │
 └──────────────┘
+```
