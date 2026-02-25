@@ -19,14 +19,14 @@
 ## 📊 GitHub Showcase Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=convertflow&theme=react&show_owner=true" alt="ConvertFlow Repo Stats">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lecelechavarre&repo=conversion-web&theme=react&show_owner=true" alt="ConvertFlow Repo Stats">
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/lecelechavarre/convertflow?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/lecelechavarre/convertflow?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/languages/top/lecelechavarre/convertflow?style=flat-square" alt="Top Language">
-  <img src="https://img.shields.io/github/issues/lecelechavarre/convertflow?style=flat-square" alt="Open Issues">
+  <img src="https://img.shields.io/github/stars/lecelechavarre/conversion-web?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/lecelechavarre/conversion-web?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/languages/top/lecelechavarre/conversion-web?style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/github/issues/lecelechavarre/conversion-web?style=flat-square" alt="Open Issues">
 </p>
 
 <p align="center">
