@@ -10,77 +10,81 @@
 </h1>
 
 <p align="center">
-  <strong>Document conversion platform</strong><br>
+  <strong>Enterprise-Grade Client-Side Document Conversion Platform</strong><br>
   <em>Professional-grade conversions. Zero server uploads. Military-grade privacy.</em>
 </p>
 
+---
+
+## 📊 GitHub Showcase Metrics
+
 <p align="center">
-  <a href="#features">Features</a> •
-  <a href="#screenshot">Screenshot</a> •
-  <a href="#installation">Installation</a> •
-  <a href="#usage">Usage</a> •
-  <a href="#supported-formats">Formats</a> •
-  <a href="#contributing">Contributing</a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=convertflow&theme=react&show_owner=true" alt="ConvertFlow Repo Stats">
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/yourusername/convertflow?style=social" alt="Stars">
+  <img src="https://img.shields.io/github/forks/yourusername/convertflow?style=social" alt="Forks">
+  <img src="https://img.shields.io/github/languages/top/yourusername/convertflow?style=flat-square" alt="Top Language">
+  <img src="https://img.shields.io/github/issues/yourusername/convertflow?style=flat-square" alt="Open Issues">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=react&hide=prs" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Top Languages">
+</p>
+
+---
+
+## 🌟 Overview
+
+ConvertFlow is a fully client-side document conversion platform built for enterprise-grade privacy and performance.
+
+**Key highlights:**
+
+- ✅ Browser-local conversions: PDF, DOCX, XLSX, CSV, JSON, TXT, HTML  
+- ✅ PDF merge & compression  
+- ✅ Instant preview and download  
+- ✅ Fully responsive UI (desktop & mobile)  
+- ✅ No server, zero file uploads, 100% privacy  
 
 ---
 
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://github.com/lecelechavarre/conversion-web/blob/main/screenshoot.png" alt="ConvertFlow Interface" width="100%" style="border-radius: 16px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);">
+  <img src="https://github.com/lecelechavarre/conversion-web/blob/main/screenshoot.png" alt="ConvertFlow Interface" width="80%" style="border-radius: 16px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);">
 </p>
 
-<p align="center">
-  <em>The ConvertFlow interface featuring the dark cyberpunk theme with Convert, Merge, and Compress modes</em>
-</p>
+<em align="center">Dark cyberpunk theme with Convert, Merge, and Compress modes</em>
 
 ---
 
-## 🚀 Features
-
-### Core Capabilities
-- **📄 Document Conversion** — Transform PDFs, Word docs, Excel files, CSV, JSON, HTML, and plain text
-- **🔀 PDF Merging** — Combine multiple PDFs into a single document
-- **🗜️ PDF Compression** — Optimize file sizes without quality loss
-- **👁️ Live Preview** — See extracted content before converting
-
-### Privacy & Security
-- **🔒 100% Client-Side** — Your files never leave your browser
-- **🚫 Zero Server Uploads** — No data transmission to external servers
-- **🛡️ Local Processing** — WebAssembly-powered conversion engines
-- **🔐 No Data Retention** — Files are immediately discarded after processing
-
-### User Experience
-- **⚡ Instant Results** — No upload/download wait times
-- **🎨 Modern Interface** — Dark theme with glass morphism design and cyan/purple gradients
-- **📱 Fully Responsive** — Works on desktop, tablet, and mobile
-- **🌙 Theme Support** — Toggle between light and dark modes
-
----
-
-## 🎯 Quick Start
-
-Try it locally in under 30 seconds:
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/convertflow.git
-
-# Navigate to project
-cd convertflow
-
-# Serve with Python (or any static server)
-python -m http.server 8000
-
-# Open http://localhost:8000 in your browser
-```
-
-## 📦 Installation
-Option 1: Static Hosting (Recommended)
-Deploy to any static hosting service:
-| Platform         | Deploy Button                                                                                                                                                      |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Vercel**       | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/convertflow)                        |
-| **Netlify**      | [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/yourusername/convertflow) |
-| **GitHub Pages** | [See Guide](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)                                                       |
+## 🏗 Architecture Diagram
+┌──────────────┐
+│ User File │
+└──────┬───────┘
+│
+▼
+┌──────────────┐
+│ Browser │ ← 100% Local Processing
+│ (JS + WASM) │
+└──────┬───────┘
+│
+▼
+┌──────────────┐
+│ Conversion │
+│ Engines │
+│ PDF.js, │
+│ PDF-Lib, │
+│ SheetJS │
+└──────┬───────┘
+│
+▼
+┌──────────────┐
+│ Output File │
+└──────────────┘
