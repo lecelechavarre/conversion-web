@@ -16,17 +16,17 @@
 
 ---
 
-## 🌟 Overview
+## Overview
 
 ConvertFlow is a fully client-side document conversion platform built for enterprise-grade privacy and performance.
 
 **Key highlights:**
 
-- ✅ Browser-local conversions: PDF, DOCX, XLSX, CSV, JSON, TXT, HTML  
-- ✅ PDF merge & compression  
-- ✅ Instant preview and download  
-- ✅ Fully responsive UI (desktop & mobile)  
-- ✅ No server, zero file uploads, 100% privacy  
+- Browser-local conversions: PDF, DOCX, XLSX, CSV, JSON, TXT, HTML  
+- PDF merge & compression  
+- Instant preview and download  
+- Fully responsive UI (desktop & mobile)  
+- No server, zero file uploads, 100% privacy  
 
 ---
 
@@ -66,3 +66,37 @@ ConvertFlow is a fully client-side document conversion platform built for enterp
 │ Output File │
 └──────────────┘
 ```
+
+
+**Security Guarantees:**
+
+- 🔒 Files never leave browser  
+- 🛡️ No server-side processing  
+- 🚫 No telemetry, logs, or cloud storage  
+
+---
+
+## Core Features
+
+- Document Conversion: PDF, DOCX, XLSX, CSV, JSON, TXT, HTML  
+- PDF Operations: Multi-file merge, adjustable compression  
+- UX: Live preview, responsive layout, dark/light theme toggle  
+
+---
+
+##  Installation / Run Locally
+
+```bash
+# Clone repository
+git clone https://github.com/yourusername/convertflow.git
+cd convertflow
+
+# Serve locally
+python -m http.server 8000
+# or
+npx serve .
+# or
+php -S localhost:8000
+
+# Open in browser
+http://localhost:8000
