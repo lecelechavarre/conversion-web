@@ -30,12 +30,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=react&hide=prs" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=react" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=lecelechavarre&show_icons=true&count_private=true&theme=react&hide=prs" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecelechavarre&theme=react" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=react" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelechavarre&layout=compact&theme=react" alt="Top Languages">
 </p>
 
 ---
