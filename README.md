@@ -16,30 +16,6 @@
 
 ---
 
-## 📊 GitHub Showcase Metrics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lecelechavarre&repo=conversion-web&theme=react&show_owner=true" alt="ConvertFlow Repo Stats">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/lecelechavarre/conversion-web?style=social" alt="Stars">
-  <img src="https://img.shields.io/github/forks/lecelechavarre/conversion-web?style=social" alt="Forks">
-  <img src="https://img.shields.io/github/languages/top/lecelechavarre/conversion-web?style=flat-square" alt="Top Language">
-  <img src="https://img.shields.io/github/issues/lecelechavarre/conversion-web?style=flat-square" alt="Open Issues">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lecelechavarre&show_icons=true&count_private=true&theme=react&hide=prs" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lecelechavarre&theme=react" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lecelechavarre&layout=compact&theme=react" alt="Top Languages">
-</p>
-
----
-
 ## 🌟 Overview
 
 ConvertFlow is a fully client-side document conversion platform built for enterprise-grade privacy and performance.
