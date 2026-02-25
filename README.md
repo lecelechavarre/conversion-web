@@ -36,8 +36,6 @@ ConvertFlow is a fully client-side document conversion platform built for enterp
   <img src="https://github.com/lecelechavarre/conversion-web/blob/main/screenshoot.png" alt="ConvertFlow Interface" width="80%" style="border-radius: 16px; box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);">
 </p>
 
-<em align="center">Dark cyberpunk theme with Convert, Merge, and Compress modes</em>
-
 ---
 
 ## 🏗 Architecture Diagram
